@@ -1,0 +1,20 @@
+{
+  "background_color": "#000000",
+  "description": "Your favorite playing card games online! Play with up to 4 friends.",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Cards3D Online",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Cards3D",
+  "start_url": "https://briansoderberg.github.io/Cards3D/",
+  "theme_color": "#000000",
+  "categories": [
+    "entertainment",
+    "games"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "en"
+}
